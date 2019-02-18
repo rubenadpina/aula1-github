@@ -11,7 +11,7 @@ public class Program {
 
 		Scanner sc = new Scanner(System.in);
 		
-		
+		System.out.println();
 		
 		sc.close();
 
